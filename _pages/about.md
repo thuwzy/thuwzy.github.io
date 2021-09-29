@@ -19,7 +19,7 @@ Research Interests
 * Logic and Symbolic in Artificial Intelligence
 * Bayesian Learining, Machine Learning
 
-Publications & Manuscrpts
+Publications & Manuscripts
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
