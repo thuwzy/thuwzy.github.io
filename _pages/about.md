@@ -8,4 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'a Zhengyi Wang (王征翊), a PhD student at Tsinghua University.
+I'm Zhengyi Wang (王征翊), a PhD student at Tsinghua University on Machine Learning. I'm advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Hang Su](https://www.suhangss.me/). My lab is [TSAIL](https://ml.cs.tsinghua.edu.cn/).
+
+Research Interests
+======
+* Logic and Sybolic in Artificial Intelligence
+* Bayesian Learining, Machine Learning
+
+Publications & Manuscrpts
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+![profile](/images/profile-large.jpg)
