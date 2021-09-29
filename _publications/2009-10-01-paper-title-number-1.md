@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Query-based Adversarial Attacks on Graph with Fake Node"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We proposed Cluster Attack, a novel adversarial attack on graph by introducing a set of fake nodes to the original graph which can mislead the classification on certain victim nodes.'
+date: 2021
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2109.13069'
+citation: 'Zhengyi Wang, Zhongkai Hao, Hang Su and Jun Zhu. (2021). &quot;Query-based Adversarial Attacks on Graph with Fake Node.&quot; <i>arXiv</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We proposed Cluster Attack, a novel adversarial attack on graph by introducing a set of fake nodes to the original graph which can mislead the classification on certain victim nodes.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2109.13069.pdf)
