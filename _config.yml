@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengyi Wang's Homepage"
+title                    : "Zhengyi Wang"
 title_separator          : "-"
 name                     : &name "Zhengyi Wang"
 description              : &description "PhD student at Tsinghua University"
