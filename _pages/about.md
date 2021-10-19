@@ -36,7 +36,7 @@ Awards
 * Fengtian Scholarship, Tsinghua University, 2019.10
 * The first prize of Mathematics Competetion for College Students in Beijing, 2018.10
 * Comprehensive Excellence Award Scholarship, Tsinghua University, 2018.10
-* Silver Award of Chinese Mathematics Olympiads (CMO), 2016
+* Silver Award of Chinese Mathematical Olympiad (CMO), 2016
 
 Teaching
 ======
