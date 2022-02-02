@@ -30,8 +30,8 @@ Publications & Manuscripts
 
 Awards
 ======
-* Beijing Outstanding Gradates, 2021.6
-* Tsinghua Excellent Gradates, Tsinghua University, 2021.6
+* Beijing Outstanding Graduates, 2021.6
+* Excellent Graduates, Tsinghua University, 2021.6
 * Hengda Scholarship, Tsinghua University, 2020.10
 * Fengtian Scholarship, Tsinghua University, 2019.10
 * The first prize of Mathematics Competetion for College Students in Beijing, 2018.10
@@ -40,8 +40,8 @@ Awards
 
 Teaching
 ======
-* 2021 Fall, TA in Discrete mathematics for Computer Science, instructed by A/Prof Hang Su
-* 2021 Spring, TA in Discrete mathematics for Computer Science, instructed by A/Prof Hang Su
+* 2021 Fall, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
+* 2021 Spring, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
 
 ![profile](/images/profile-large.jpg)
 
