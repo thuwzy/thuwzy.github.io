@@ -14,6 +14,8 @@ I got my Bachelor's degree in **Computer Science** at Tsinghua University in 202
 
 I got my Minor degree in **Music** at Tsinghua University in 2021.
 
+[Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
+
 Research Interests
 ======
 * Logic and Symbolic in Artificial Intelligence
@@ -21,8 +23,7 @@ Research Interests
 
 What's New
 ======
-* <span style="color:red">New!!</span> I open-sourced [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
-* <span style="color:red">New!!</span> I estabilished a curated paper list for Neural Symbolic and Probabilistic Logic papers. [\[Github Link\]](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
+* <span style="color:red">New!!</span> I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
 
 Publications & Manuscripts
 ======
