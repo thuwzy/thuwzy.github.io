@@ -46,6 +46,6 @@ Teaching
 
 ![profile](/images/profile-large.jpg)
 
-<div id="disqus_thread" class="article-comments"></div>
+<!--<div id="disqus_thread" class="article-comments"></div>
 <script src="https://thuwzy.disqus.com/embed.js" async defer></script>
-<noscript>Please enable JavaScript to view the comments.</noscript>
+<noscript>Please enable JavaScript to view the comments.</noscript>-->
