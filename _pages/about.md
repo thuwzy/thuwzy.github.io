@@ -14,11 +14,9 @@ I got my Bachelor's degree in **Computer Science** at Tsinghua University in 202
 
 I got my Minor degree in **Music** at Tsinghua University in 2021.
 
-[Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
-
 Research Interests
 ======
-* Logic and Symbolic in Artificial Intelligence
+* Deep Generative Model
 * Bayesian Learining, Machine Learning
 
 What's New
@@ -43,6 +41,13 @@ Teaching
 ======
 * 2021 Fall, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
 * 2021 Spring, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
+
+Misc
+======
+[Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
+
+A Photo of Me
+======
 
 ![profile](/images/profile-large.jpg)
 
