@@ -25,9 +25,9 @@ What's New
 ======
 * <span style="color:red">New!!</span> I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
 
-Publications & Manuscripts
+Publications
 ======
-* **Zhengyi Wang**, Zhongkai Hao, Hang Su and Jun Zhu. [Query-based Adversarial Attacks on Graph with Fake Nodes](https://arxiv.org/abs/2109.13069), Preprint: arXiv 2109.13069
+* **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. [Cluster Attack: Query-based Adversarial Attacks on Graph with Fake Nodes](cluster-attack.pdf), To Appear in proc. of International Joint Conference on Artificial Intelligence (IJCAI), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>)
 
 Awards
 ======
