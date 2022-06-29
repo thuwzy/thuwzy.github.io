@@ -25,7 +25,7 @@ What's New
 
 Publications
 ======
-* **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069), in proceedings of International Joint Conference on Artificial Intelligence (IJCAI), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>)
+* **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069), in proceedings of International Joint Conference on Artificial Intelligence (**IJCAI**), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>)
 
 Awards
 ======
