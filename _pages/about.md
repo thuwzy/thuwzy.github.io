@@ -10,41 +10,42 @@ redirect_from:
 
 I'm Zhengyi Wang, a PhD student at Tsinghua University on **Machine Learning**. I'm advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Hang Su](https://www.suhangss.me/). My lab is [TSAIL](https://ml.cs.tsinghua.edu.cn/).
 
-I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021.
-
-I got my Minor degree in **Music** at Tsinghua University in 2021.
+I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021. I got my Minor degree in **Music** at Tsinghua University in 2021.
 
 Research Interests
 ======
 * Deep Generative Model
 * Bayesian Learining, Machine Learning
+* Adversarial Robustness
+* 3D Vision
 
 What's New
 ======
-* <span style="color:red">New!!</span> I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
+* I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
+* [Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
+
 
 Publications
 ======
-* **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069), in proceedings of International Joint Conference on Artificial Intelligence (**IJCAI**), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>) [\[code\]](https://github.com/thuwzy/Cluster-Attack)
+* [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069) <br>
+**Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. <br>
+International Joint Conference on Artificial Intelligence (**IJCAI**), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>) [\[code\]](https://github.com/thuwzy/Cluster-Attack)
 
 Awards
 ======
-* Beijing Outstanding Graduates, 2021.6
-* Excellent Graduates, Tsinghua University, 2021.6
+* **Beijing Outstanding Graduates**, 2021.6
+* **Excellent Graduates, Tsinghua University**, 2021.6
 * Hengda Scholarship, Tsinghua University, 2020.10
 * Fengtian Scholarship, Tsinghua University, 2019.10
 * The first prize of Mathematics Competetion for College Students in Beijing, 2018.10
 * Comprehensive Excellence Award Scholarship, Tsinghua University, 2018.10
-* Silver Award of Chinese Mathematical Olympiad (CMO), 2016
+* **Silver Award of Chinese Mathematical Olympiad (CMO)**, 2016
 
-Teaching
+<!-- Teaching
 ======
 * 2021 Fall, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
-* 2021 Spring, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su
+* 2021 Spring, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su -->
 
-Misc
-======
-[Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
 
 A Photo of Me
 ======
