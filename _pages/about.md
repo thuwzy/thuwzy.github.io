@@ -12,7 +12,7 @@ I'm Zhengyi Wang, a PhD student at Tsinghua University on **Machine Learning**. 
 
 I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021. I got my Minor degree in **Music** at Tsinghua University in 2021.
 
-My research interests lie on Deep Generative Model, Bayesian Learining, Machine Learning, Adversarial Robustness and 3D Vision.
+My research interests lie on Deep Generative Model, Adversarial Robustness and 3D Vision.
 
 What's New
 ======
