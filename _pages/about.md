@@ -28,11 +28,11 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), Online (d
 
 Awards
 ======
-* **Beijing Outstanding Graduates**, 2021.6
+* Beijing Outstanding Graduates, 2021.6
 * **Excellent Graduates, Tsinghua University**, 2021.6
-* Hengda Scholarship, Tsinghua University, 2020.10
+<!-- * Hengda Scholarship, Tsinghua University, 2020.10
 * Fengtian Scholarship, Tsinghua University, 2019.10
-* The first prize of Mathematics Competetion for College Students in Beijing, 2018.10
+* The first prize of Mathematics Competetion for College Students in Beijing, 2018.10 -->
 * Comprehensive Excellence Award Scholarship, Tsinghua University, 2018.10
 * **Silver Award of Chinese Mathematical Olympiad (CMO)**, 2016
 
