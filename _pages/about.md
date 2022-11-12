@@ -39,10 +39,10 @@ Awards
 * 2021 Spring, TA in Discrete Mathematics for Computer Science, instructed by Prof Hang Su -->
 
 
-A Photo of Me
+<!-- A Photo of Me
 ======
 
-![profile](/images/profile-large.jpg)
+![profile](/images/profile-large.jpg) -->
 
 <!--<div id="disqus_thread" class="article-comments"></div>
 <script src="https://thuwzy.disqus.com/embed.js" async defer></script>
