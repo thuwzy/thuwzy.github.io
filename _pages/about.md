@@ -22,9 +22,14 @@ What's New
 
 Publications
 ======
+* [GNOT: A General Neural Operator Transformer for Operator Learning](https://arxiv.org/abs/2302.14376) <br>
+Zhongkai Hao, [Chengyang Ying](https://yingchengyang.github.io/), **Zhengyi Wang**, Hang Su, [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/), Songming Liu, Ze Cheng, Jun Zhu, Jian Song <br>
+ArXiv [\[pdf\]](https://arxiv.org/abs/2302.14376)
+
+
 * [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069) <br>
 **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu. <br>
-International Joint Conference on Artificial Intelligence (**IJCAI**), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>) [\[code\]](https://github.com/thuwzy/Cluster-Attack)
+International Joint Conference on Artificial Intelligence (**IJCAI**), Online (due to COVID-19), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>) [\[pdf\]](https://arxiv.org/abs/2109.13069)[\[code\]](https://github.com/thuwzy/Cluster-Attack)
 
 Awards
 ======
