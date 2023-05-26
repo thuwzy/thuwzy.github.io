@@ -14,11 +14,6 @@ I got my Bachelor's degree in **Computer Science** at Tsinghua University in 202
 
 My research interests lie on Diffusion Models, Text-to-3D and Adversarial Robustness.
 
-What's New
-======
-* I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
-* [Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
-
 
 Publications
 ======
@@ -37,6 +32,12 @@ Computer Vision and Pattern Recognition (**CVPR**), 2023. [\[pdf\]](https://arxi
 * [Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors](https://arxiv.org/abs/2109.13069) <br>
 **Zhengyi Wang**, Zhongkai Hao, Ziqiao Wang, Hang Su and Jun Zhu <br>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2022. (<span style="color:red">Long Oral, Accept rate~3.8%</span>) [\[pdf\]](https://arxiv.org/abs/2109.13069) [\[Code\]](https://github.com/thuwzy/Cluster-Attack)
+
+Misc
+======
+* I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
+* [Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
+
 
 Awards
 ======
