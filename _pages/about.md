@@ -12,7 +12,7 @@ I'm Zhengyi Wang, a PhD student at Tsinghua University on **Machine Learning**. 
 
 I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021. I got my Minor degree in **Music** at Tsinghua University in 2021.
 
-My research interests lie on Deep Generative Model, Adversarial Robustness and 3D Vision.
+My research interests lie on Diffusion Model, Text-to-3D and Adversarial Robustness.
 
 What's New
 ======
@@ -22,6 +22,10 @@ What's New
 
 Publications
 ======
+* [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213) <br>
+**Zhengyi Wang**\*, Cheng Lu\*, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu <br>
+ArXiv. [\[pdf\]](https://arxiv.org/abs/2305.16213) [\[Code\]](https://github.com/thu-ml/prolificdreamer) [\[Project Page\]](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)
+
 * [GNOT: A General Neural Operator Transformer for Operator Learning](https://arxiv.org/abs/2302.14376) <br>
 Zhongkai Hao, [Chengyang Ying](https://yingchengyang.github.io/), **Zhengyi Wang**, Hang Su, [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/), Songming Liu, Ze Cheng, Jun Zhu, Jian Song <br>
 International Conference on Machine Learning (**ICML**), 2023. [\[pdf\]](https://arxiv.org/abs/2302.14376) [\[Code\]](https://github.com/HaoZhongkai/GNOT)
