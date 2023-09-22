@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhengyi Wang, a PhD student at Tsinghua University on **Machine Learning**. I'm advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Hang Su](https://www.suhangss.me/).
+I'm Zhengyi Wang, a PhD student at Tsinghua University on **Machine Learning** since 2021. I'm advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Hang Su](https://www.suhangss.me/).
 
-I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021. I got my Minor degree in **Music** at Tsinghua University in 2021.
+I got my Bachelor's degree in **Computer Science** at Tsinghua University in 2021.
 
 My research interests lie on 3D Generative Models, Diffusion Models and Adversarial Robustness.
 
@@ -37,7 +37,7 @@ Misc
 ======
 * I am working on [Zhusuan](https://github.com/thuwzy/ZhuSuan-PyTorch) in pytorch, an elegant library for bayesian deep learning. [Docs](https://zhusuan-pytorch.readthedocs.io/en/latest/) is available.
 * [Paper list for Neural Symbolic and Probabilistic Logic](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers)
-
+* I got my Minor degree in **Music** at Tsinghua University in 2021.
 
 Awards
 ======
