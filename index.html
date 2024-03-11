@@ -9,7 +9,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.156.1/build/three.module.js",
+          "three/controls/OrbitControls": "https://unpkg.com/three@0.156.1/examples/jsm/controls/OrbitControls.js",
+          "three/libs/stats": "https://unpkg.com/three@0.156.1/examples/jsm/libs/stats.module.js"
+        }
+      }
+    </script>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer@latest/dist/model-viewer.min.js"></script>
+    <style>
+      model-viewer {
+        width: 100%;
+        height: 100%;
+      }
+    </style> 
   </head>
 
   <body>
@@ -45,7 +62,7 @@
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
               <tr>
               <td style="padding:20px;width:100%;vertical-align:middle">
-                <h2>Research</h2>
+                <h2>Selected Research</h2>
                 <p>
                   Representative papers are <span class="highlight">highlighted</span>.
                 </p>
@@ -54,6 +71,45 @@
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+            <tr bgcolor="#ffffd0">
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <div class="one">
+                    <model-viewer src="./image/cat.glb" 
+                    environment-image="./image/pure_grey.png"
+                    shadow-intensity="1"
+                    orientation="0deg 270deg 180deg"
+                    style="background: linear-gradient(#ffffff, #ada996); overflow-x: hidden;"
+                    camera-controls touch-action="pan-y">
+                    </model-viewer>
+                </div>
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/">
+                  <span class="papertitle">CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model</span>
+                </a>
+                <br>
+                <strong>Zhengyi Wang</strong>,
+                <a href="https://yikaiw.github.io/">Yikai Wang</a>,
+                Yifei Chen,
+                <a href="https://xiang-cd.github.io/">Chendong Xiang</a>,
+                <a href="https://chenshuo20.github.io/">Shuo Chen</a>,
+                Dajiang Yu,
+                <a href="https://zhenxuan00.github.io/">Chongxuan Li</a>,
+                <a href="https://www.suhangss.me/">Hang Su</a>,
+                <a href="https://ml.cs.tsinghua.edu.cn/~jun/index.shtml">Jun Zhu</a>
+                <br>
+                ArXiv
+                <br>
+                <a href="https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/">project page</a>
+                /
+                <a href="https://arxiv.org/abs/2403.05034">arXiv</a>
+                /
+                <a href="https://github.com/thu-ml/CRM">Code</a>
+                /
+                <a href="https://huggingface.co/Zhengyi/CRM">Pretrained Models</a>
+                <p></p>
+              </td>
+            </tr>            
     
       <tr onmouseout="prolific_stop()" onmouseover="prolific_start()"  bgcolor="#ffffd0">
         <td style="padding:20px;width:25%;vertical-align:middle">
@@ -96,7 +152,7 @@
           /
           <a href="https://arxiv.org/abs/2305.16213">arXiv</a>
           /
-          <a href="https://github.com/thu-ml/prolificdreamer">Github</a>
+          <a href="https://github.com/thu-ml/prolificdreamer">Code</a>
           <p></p>
         </td>
       </tr>
